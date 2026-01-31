@@ -1,1 +1,16 @@
 
+version: '3'
+services:
+  api:
+    build: .
+    ports:
+      - "8000:8000"
+
+  ui:
+    image: python:3.10
+    working_dir: /app
+    volumes:
+      - .:/app
+    command: streamlit run frontend/app.py
+    ports:
+      - "8501:8501"
