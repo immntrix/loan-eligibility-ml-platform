@@ -24,3 +24,20 @@ This system automates the process using ML to assist in faster and more reliable
 ---
 
 ## 🏗️ System Architecture
+
+---
+
+## 🛠️ Tech Stack
+
+- Python
+- Scikit-learn
+- FastAPI
+- Streamlit
+- Docker
+- Joblib
+
+---
+
+## 📁 Project Structure
+
+
