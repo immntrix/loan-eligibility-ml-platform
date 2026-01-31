@@ -25,6 +25,8 @@ This system automates the process using ML to assist in faster and more reliable
 
 ## 🏗️ System Architecture
 
+![Architecture](architecture.png)
+
 ---
 
 ## 🛠️ Tech Stack
